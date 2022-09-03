@@ -63,10 +63,10 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
+  clientID: cb3bdba6e6100ec1077d
+  clientSecret: f0765618e86c2d54f411374b3e69edd77a2d59ff
+  repo: liu-zi-wei.github.io
+  owner: liu-zi-wei
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
